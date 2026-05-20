@@ -1,4 +1,4 @@
-# cold
+# Cold
 
 <a href="Cold10.jpg"><img alt="Cold10.jpg" src="Cold10.jpg"></a>
 

@@ -1,6 +1,6 @@
 # hiroshi nagai
 
-## mobile
+## Mobile
 
 <a href="Mobile/Cel3.jpg"><img alt="Cel3.jpg" src="Mobile/Cel3.jpg"></a>
 
@@ -14,7 +14,7 @@
 
 <a href="Mobile/Cel6.png"><img alt="Cel6.png" src="Mobile/Cel6.png"></a>
 
-## pc
+## Desktop
 
 <a href="PC/10.png"><img alt="10.png" src="PC/10.png"></a>
 

@@ -1,4 +1,4 @@
-# wallpapers
+# Wallpapers
 
 <a href="W (100).jpg"><img alt="W (100).jpg" src="W (100).jpg"></a>
 
