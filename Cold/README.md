@@ -1,24 +1,24 @@
 # cold
 
-[![Cold10.jpg](https://github.com/imNazax/wallpapers/raw/main/Cold/Cold10.jpg)](https://github.com/imNazax/wallpapers/blob/main/Cold/Cold10.jpg)
+<a href="Cold10.jpg"><img alt="Cold10.jpg" src="Cold10.jpg"></a>
 
-[![Cold1.jpg](https://github.com/imNazax/wallpapers/raw/main/Cold/Cold1.jpg)](https://github.com/imNazax/wallpapers/blob/main/Cold/Cold1.jpg)
+<a href="Cold1.jpg"><img alt="Cold1.jpg" src="Cold1.jpg"></a>
 
-[![Cold2.jpg](https://github.com/imNazax/wallpapers/raw/main/Cold/Cold2.jpg)](https://github.com/imNazax/wallpapers/blob/main/Cold/Cold2.jpg)
+<a href="Cold2.jpg"><img alt="Cold2.jpg" src="Cold2.jpg"></a>
 
-[![Cold3.jpg](https://github.com/imNazax/wallpapers/raw/main/Cold/Cold3.jpg)](https://github.com/imNazax/wallpapers/blob/main/Cold/Cold3.jpg)
+<a href="Cold3.jpg"><img alt="Cold3.jpg" src="Cold3.jpg"></a>
 
-[![Cold4.jpg](https://github.com/imNazax/wallpapers/raw/main/Cold/Cold4.jpg)](https://github.com/imNazax/wallpapers/blob/main/Cold/Cold4.jpg)
+<a href="Cold4.jpg"><img alt="Cold4.jpg" src="Cold4.jpg"></a>
 
-[![Cold5.jpg](https://github.com/imNazax/wallpapers/raw/main/Cold/Cold5.jpg)](https://github.com/imNazax/wallpapers/blob/main/Cold/Cold5.jpg)
+<a href="Cold5.jpg"><img alt="Cold5.jpg" src="Cold5.jpg"></a>
 
-[![Cold8.jpg](https://github.com/imNazax/wallpapers/raw/main/Cold/Cold8.jpg)](https://github.com/imNazax/wallpapers/blob/main/Cold/Cold8.jpg)
+<a href="Cold8.jpg"><img alt="Cold8.jpg" src="Cold8.jpg"></a>
 
-[![Cold9.jpg](https://github.com/imNazax/wallpapers/raw/main/Cold/Cold9.jpg)](https://github.com/imNazax/wallpapers/blob/main/Cold/Cold9.jpg)
+<a href="Cold9.jpg"><img alt="Cold9.jpg" src="Cold9.jpg"></a>
 
-[![Cold6.png](https://github.com/imNazax/wallpapers/raw/main/Cold/Cold6.png)](https://github.com/imNazax/wallpapers/blob/main/Cold/Cold6.png)
+<a href="Cold6.png"><img alt="Cold6.png" src="Cold6.png"></a>
 
-[![Cold7.png](https://github.com/imNazax/wallpapers/raw/main/Cold/Cold7.png)](https://github.com/imNazax/wallpapers/blob/main/Cold/Cold7.png)
+<a href="Cold7.png"><img alt="Cold7.png" src="Cold7.png"></a>
 
-[![Cold11.webp](https://github.com/imNazax/wallpapers/raw/main/Cold/Cold11.webp)](https://github.com/imNazax/wallpapers/blob/main/Cold/Cold11.webp)
+<a href="Cold11.webp"><img alt="Cold11.webp" src="Cold11.webp"></a>
 

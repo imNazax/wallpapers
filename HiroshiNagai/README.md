@@ -2,59 +2,59 @@
 
 ## mobile
 
-[![Cel3.jpg](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/Mobile/Cel3.jpg)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/Mobile/Cel3.jpg)
+<a href="Mobile/Cel3.jpg"><img alt="Cel3.jpg" src="Mobile/Cel3.jpg"></a>
 
-[![Cel1.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/Mobile/Cel1.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/Mobile/Cel1.png)
+<a href="Mobile/Cel1.png"><img alt="Cel1.png" src="Mobile/Cel1.png"></a>
 
-[![Cel2.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/Mobile/Cel2.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/Mobile/Cel2.png)
+<a href="Mobile/Cel2.png"><img alt="Cel2.png" src="Mobile/Cel2.png"></a>
 
-[![Cel4.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/Mobile/Cel4.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/Mobile/Cel4.png)
+<a href="Mobile/Cel4.png"><img alt="Cel4.png" src="Mobile/Cel4.png"></a>
 
-[![Cel5.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/Mobile/Cel5.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/Mobile/Cel5.png)
+<a href="Mobile/Cel5.png"><img alt="Cel5.png" src="Mobile/Cel5.png"></a>
 
-[![Cel6.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/Mobile/Cel6.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/Mobile/Cel6.png)
+<a href="Mobile/Cel6.png"><img alt="Cel6.png" src="Mobile/Cel6.png"></a>
 
 ## pc
 
-[![10.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/10.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/10.png)
+<a href="PC/10.png"><img alt="10.png" src="PC/10.png"></a>
 
-[![11.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/11.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/11.png)
+<a href="PC/11.png"><img alt="11.png" src="PC/11.png"></a>
 
-[![12.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/12.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/12.png)
+<a href="PC/12.png"><img alt="12.png" src="PC/12.png"></a>
 
-[![14.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/14.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/14.png)
+<a href="PC/14.png"><img alt="14.png" src="PC/14.png"></a>
 
-[![16.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/16.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/16.png)
+<a href="PC/16.png"><img alt="16.png" src="PC/16.png"></a>
 
-[![17.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/17.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/17.png)
+<a href="PC/17.png"><img alt="17.png" src="PC/17.png"></a>
 
-[![18.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/18.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/18.png)
+<a href="PC/18.png"><img alt="18.png" src="PC/18.png"></a>
 
-[![19.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/19.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/19.png)
+<a href="PC/19.png"><img alt="19.png" src="PC/19.png"></a>
 
-[![1.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/1.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/1.png)
+<a href="PC/1.png"><img alt="1.png" src="PC/1.png"></a>
 
-[![20.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/20.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/20.png)
+<a href="PC/20.png"><img alt="20.png" src="PC/20.png"></a>
 
-[![21.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/21.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/21.png)
+<a href="PC/21.png"><img alt="21.png" src="PC/21.png"></a>
 
-[![22.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/22.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/22.png)
+<a href="PC/22.png"><img alt="22.png" src="PC/22.png"></a>
 
-[![4.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/4.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/4.png)
+<a href="PC/4.png"><img alt="4.png" src="PC/4.png"></a>
 
-[![6.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/6.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/6.png)
+<a href="PC/6.png"><img alt="6.png" src="PC/6.png"></a>
 
-[![8.png](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/8.png)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/8.png)
+<a href="PC/8.png"><img alt="8.png" src="PC/8.png"></a>
 
-[![13.webp](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/13.webp)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/13.webp)
+<a href="PC/13.webp"><img alt="13.webp" src="PC/13.webp"></a>
 
-[![15.webp](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/15.webp)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/15.webp)
+<a href="PC/15.webp"><img alt="15.webp" src="PC/15.webp"></a>
 
-[![2.webp](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/2.webp)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/2.webp)
+<a href="PC/2.webp"><img alt="2.webp" src="PC/2.webp"></a>
 
-[![3.webp](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/3.webp)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/3.webp)
+<a href="PC/3.webp"><img alt="3.webp" src="PC/3.webp"></a>
 
-[![5.webp](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/5.webp)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/5.webp)
+<a href="PC/5.webp"><img alt="5.webp" src="PC/5.webp"></a>
 
-[![9.webp](https://github.com/imNazax/wallpapers/raw/main/HiroshiNagai/PC/9.webp)](https://github.com/imNazax/wallpapers/blob/main/HiroshiNagai/PC/9.webp)
+<a href="PC/9.webp"><img alt="9.webp" src="PC/9.webp"></a>
 
